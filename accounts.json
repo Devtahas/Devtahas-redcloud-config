@@ -38,5 +38,13 @@
     "status": "full",
     "used_bytes": 0,
     "priority": 1
+  },
+  {
+    "worker": "winter-morning-9ecf.mamadyah.workers.dev",
+    "uuid": "0664f95e-3f59-46eb-a5ff-dec8df9d382e",
+    "path": "/eyJqdW5rIjoiRkdUck9JaXJmVUNLS0duIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==",
+    "status": "full",
+    "used_bytes": 0,
+    "priority": 1
   }
 ]
