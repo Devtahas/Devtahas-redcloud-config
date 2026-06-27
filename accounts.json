@@ -1,1 +1,10 @@
-
+[
+  {
+    "worker": "still-scene-fda3.devtahair.workers.dev",
+    "uuid": "dce8ca0a-ed26-45c9-9962-38888c19a0ad",
+    "path": "/eyJqdW5rIjoiSDNSSGYxT05LU2VEbyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjYyLjYwLjIxNy4yMzAiXX0=",
+    "status": "full",
+    "used_bytes": 0,
+    "priority": 1
+  }
+]
