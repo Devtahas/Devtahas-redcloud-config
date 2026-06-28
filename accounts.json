@@ -62,5 +62,13 @@
     "status": "full",
     "used_bytes": 0,
     "priority": 1
+  },
+  {
+    "worker": "royal-glitter-b8f5.yosefkv.workers.dev",
+    "uuid": "0f313f40-b0e4-43b7-a86a-7bae0683e94c",
+    "path": "/eyJqdW5rIjoiaFhXdDh3TWIiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
+    "status": "full",
+    "used_bytes": 0,
+    "priority": 1
   }
 ]
