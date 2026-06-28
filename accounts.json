@@ -54,5 +54,13 @@
     "status": "full",
     "used_bytes": 0,
     "priority": 1
+  },
+  {
+    "worker": "raspy-credit-4efd.tommddev.workers.dev",
+    "uuid": "805904f9-892d-4672-9687-819486e5369e",
+    "path": "/eyJqdW5rIjoiUVpxVTJCSG5LRDRUcXV0RCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
+    "status": "full",
+    "used_bytes": 0,
+    "priority": 1
   }
 ]
