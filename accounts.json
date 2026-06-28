@@ -70,5 +70,13 @@
     "status": "full",
     "used_bytes": 0,
     "priority": 1
+  },
+  {
+    "worker": "fancy-hall-51c6.devmrtous6.workers.dev",
+    "uuid": "ee540ce6-74f5-42af-a48e-b8ea4ebbb250",
+    "path": "/eyJqdW5rIjoicFpCbFpjZU9LZmtXQiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
+    "status": "full",
+    "used_bytes": 0,
+    "priority": 1
   }
 ]
