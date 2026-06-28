@@ -46,5 +46,13 @@
     "status": "full",
     "used_bytes": 0,
     "priority": 1
+  },
+  {
+    "worker": "solitary-sunset-026b.matuyrr.workers.dev",
+    "uuid": "b7f23b26-e5a9-4b31-884e-95d107130b07",
+    "path": "/eyJqdW5rIjoiQk1mSkphSkl5RiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
+    "status": "full",
+    "used_bytes": 0,
+    "priority": 1
   }
 ]
