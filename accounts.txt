@@ -1,0 +1,43 @@
+worker : still-scene-fda3.devtahair.workers.dev
+uuid : dce8ca0a-ed26-45c9-9962-38888c19a0ad
+path : /eyJqdW5rIjoiSDNSSGYxT05LU2VEbyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjYyLjYwLjIxNy4yMzAiXX0=
+
+worker : solitary-sunset-026b.matuyrr.workers.dev
+uuid : b7f23b26-e5a9-4b31-884e-95d107130b07
+path : /eyJqdW5rIjoiQk1mSkphSkl5RiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=
+
+worker : raspy-credit-4efd.tommddev.workers.dev
+uuid : 805904f9-892d-4672-9687-819486e5369e
+path : /eyJqdW5rIjoiUVpxVTJCSG5LRDRUcXV0RCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=
+
+worker : royal-glitter-b8f5.yosefkv.workers.dev
+uuid : 0f313f40-b0e4-43b7-a86a-7bae0683e94c
+path : /eyJqdW5rIjoiaFhXdDh3TWIiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119
+
+worker : fancy-hall-51c6.devmrtous6.workers.dev
+uuid : ee540ce6-74f5-42af-a48e-b8ea4ebbb250
+path : /eyJqdW5rIjoicFpCbFpjZU9LZmtXQiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=
+
+worker : orange-mud-9d08.redtommiiif.workers.dev
+uuid : 9ed8efc0-3052-4ce5-995b-57d7fbd74bd3
+path : /eyJqdW5rIjoia2VyTldhRTM5VzRYN0xjIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==
+
+worker : snowy-voice-4cc9.mehdideve.workers.dev
+uuid : 8338d5f1-0264-41f6-8768-d39cd11c3128
+path : /eyJqdW5rIjoiWDg4MnpxM29STVc0WTIiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119
+
+worker : shrill-term-03c6.alferedoffice.workers.dev
+uuid : adee44fa-ecb0-4359-a235-2d34f5b9a67a
+path : /eyJqdW5rIjoiUlc4TndHNUpQIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==
+
+worker : late-poetry-e86c.drmayry.workers.dev
+uuid : c91b3d99-a8c5-4184-86a1-9836732b032a
+path : /eyJqdW5rIjoibEZ5cHdpZzl4eiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=
+
+worker : billowing-waterfall-c2ee.demsdiana.workers.dev
+uuid : 54abb4a2-9469-4d2f-be8b-112d3e434763
+path : /eyJqdW5rIjoidE11aU52WFY3QVRYRDF3IiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==
+
+worker : winter-morning-9ecf.mamadyah.workers.dev
+uuid : 0664f95e-3f59-46eb-a5ff-dec8df9d382e
+path : /eyJqdW5rIjoiRkdUck9JaXJmVUNLS0duIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==
