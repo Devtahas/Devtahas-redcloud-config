@@ -1,13 +1,5 @@
 [
   {
-    "worker": "still-scene-fda3.devtahair.workers.dev",
-    "uuid": "dce8ca0a-ed26-45c9-9962-38888c19a0ad",
-    "path": "/eyJqdW5rIjoiSDNSSGYxT05LU2VEbyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjYyLjYwLjIxNy4yMzAiXX0=",
-    "status": "full",
-    "used_bytes": 3172863130,
-    "priority": 1
-  },
-  {
     "worker": "late-poetry-e86c.drmayry.workers.dev",
     "uuid": "c91b3d99-a8c5-4184-86a1-9836732b032a",
     "path": "/eyJqdW5rIjoiT2wxR0QzUWV0cmFRN21YOSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
@@ -86,5 +78,13 @@
     "status": "full",
     "used_bytes": 0,
     "priority": 1
+  },
+  {
+    "worker": "still-scene-fda3.devtahair.workers.dev",
+    "uuid": "dce8ca0a-ed26-45c9-9962-38888c19a0ad",
+    "path": "/eyJqdW5rIjoiSDNSSGYxT05LU2VEbyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjYyLjYwLjIxNy4yMzAiXX0=",
+    "status": "medium",
+    "used_bytes": 3244183551,
+    "priority": 2
   }
 ]
