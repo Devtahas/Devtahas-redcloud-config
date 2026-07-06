@@ -110,5 +110,13 @@
     "status": "full",
     "used_bytes": 0,
     "priority": 1
+  },
+  {
+    "worker": "steep-snowflake-267e.wdadsfg.workers.dev",
+    "uuid": "948ffe6e-0f81-49e8-88db-29024828bad1",
+    "path": "/eyJqdW5rIjoiajJsdVpBSWd3IiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==",
+    "status": "full",
+    "used_bytes": 0,
+    "priority": 1
   }
 ]
