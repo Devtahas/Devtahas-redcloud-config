@@ -94,5 +94,13 @@
     "status": "full",
     "used_bytes": 0,
     "priority": 1
+  },
+  {
+    "worker": "super-hill-53e7.lorenmres.workers.dev",
+    "uuid": "a65e9ceb-8bcb-473a-a0f8-c5756c7197a5",
+    "path": "/eyJqdW5rIjoiMXh6VVJnNE5HZFZ5IiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==",
+    "status": "full",
+    "used_bytes": 0,
+    "priority": 1
   }
 ]
