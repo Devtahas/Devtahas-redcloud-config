@@ -115,8 +115,8 @@
     "worker": "still-scene-fda3.devtahair.workers.dev",
     "uuid": "dce8ca0a-ed26-45c9-9962-38888c19a0ad",
     "path": "/eyJqdW5rIjoiSDNSSGYxT05LU2VEbyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjYyLjYwLjIxNy4yMzAiXX0=",
-    "status": "medium",
-    "used_bytes": 5311608045,
-    "priority": 2
+    "status": "exhausted",
+    "used_bytes": 6501509861,
+    "priority": 3
   }
 ]
