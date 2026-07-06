@@ -12,7 +12,7 @@
     "uuid": "c91b3d99-a8c5-4184-86a1-9836732b032a",
     "path": "/eyJqdW5rIjoiT2wxR0QzUWV0cmFRN21YOSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
     "status": "full",
-    "used_bytes": 0,
+    "used_bytes": 68709373,
     "priority": 1
   },
   {
@@ -83,6 +83,14 @@
     "worker": "orange-mud-9d08.redtommiiif.workers.dev",
     "uuid": "9ed8efc0-3052-4ce5-995b-57d7fbd74bd3",
     "path": "/eyJqdW5rIjoia2VyTldhRTM5VzRYN0xjIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==",
+    "status": "full",
+    "used_bytes": 0,
+    "priority": 1
+  },
+  {
+    "worker": "dry-rice-0f10.memenf.workers.dev",
+    "uuid": "bf1e3ad2-f322-43df-9701-88570d63ef3a",
+    "path": "/eyJqdW5rIjoiSTdSWDZIYmNxcmM0RSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
     "status": "full",
     "used_bytes": 0,
     "priority": 1
