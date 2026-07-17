@@ -4,7 +4,7 @@
     "uuid": "dce8ca0a-ed26-45c9-9962-38888c19a0ad",
     "path": "/eyJqdW5rIjoiSDNSSGYxT05LU2VEbyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjYyLjYwLjIxNy4yMzAiXX0=",
     "status": "full",
-    "used_bytes": 3116830035,
+    "used_bytes": 3171643545,
     "priority": 1
   },
   {
@@ -13,14 +13,6 @@
     "path": "/eyJqdW5rIjoiT2wxR0QzUWV0cmFRN21YOSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
     "status": "full",
     "used_bytes": 129918043,
-    "priority": 1
-  },
-  {
-    "worker": "shrill-term-03c6.alferedoffice.workers.dev",
-    "uuid": "adee44fa-ecb0-4359-a235-2d34f5b9a67a",
-    "path": "/eyJqdW5rIjoiUlc4TndHNUpQIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==",
-    "status": "full",
-    "used_bytes": 3212005935,
     "priority": 1
   },
   {
@@ -126,5 +118,13 @@
     "status": "full",
     "used_bytes": 0,
     "priority": 1
+  },
+  {
+    "worker": "shrill-term-03c6.alferedoffice.workers.dev",
+    "uuid": "adee44fa-ecb0-4359-a235-2d34f5b9a67a",
+    "path": "/eyJqdW5rIjoiUlc4TndHNUpQIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==",
+    "status": "medium",
+    "used_bytes": 3265933967,
+    "priority": 2
   }
 ]
