@@ -1,10 +1,18 @@
 [
   {
+    "worker": "still-scene-fda3.devtahair.workers.dev",
+    "uuid": "dce8ca0a-ed26-45c9-9962-38888c19a0ad",
+    "path": "/eyJqdW5rIjoiSDNSSGYxT05LU2VEbyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjYyLjYwLjIxNy4yMzAiXX0=",
+    "status": "full",
+    "used_bytes": 0,
+    "priority": 1
+  },
+  {
     "worker": "late-poetry-e86c.drmayry.workers.dev",
     "uuid": "c91b3d99-a8c5-4184-86a1-9836732b032a",
     "path": "/eyJqdW5rIjoiT2wxR0QzUWV0cmFRN21YOSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
     "status": "full",
-    "used_bytes": 1623488590,
+    "used_bytes": 0,
     "priority": 1
   },
   {
@@ -12,7 +20,7 @@
     "uuid": "adee44fa-ecb0-4359-a235-2d34f5b9a67a",
     "path": "/eyJqdW5rIjoiUlc4TndHNUpQIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==",
     "status": "full",
-    "used_bytes": 2066549107,
+    "used_bytes": 0,
     "priority": 1
   },
   {
@@ -20,7 +28,7 @@
     "uuid": "8338d5f1-0264-41f6-8768-d39cd11c3128",
     "path": "/eyJqdW5rIjoiWDg4MnpxM29STVc0WTIiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
     "status": "full",
-    "used_bytes": 369562485,
+    "used_bytes": 0,
     "priority": 1
   },
   {
@@ -28,7 +36,7 @@
     "uuid": "54abb4a2-9469-4d2f-be8b-112d3e434763",
     "path": "/eyJqdW5rIjoidE11aU52WFY3QVRYRDF3IiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==",
     "status": "full",
-    "used_bytes": 6159721,
+    "used_bytes": 0,
     "priority": 1
   },
   {
@@ -44,7 +52,7 @@
     "uuid": "b7f23b26-e5a9-4b31-884e-95d107130b07",
     "path": "/eyJqdW5rIjoiQk1mSkphSkl5RiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
     "status": "full",
-    "used_bytes": 53494371,
+    "used_bytes": 0,
     "priority": 1
   },
   {
@@ -84,7 +92,7 @@
     "uuid": "bf1e3ad2-f322-43df-9701-88570d63ef3a",
     "path": "/eyJqdW5rIjoiSTdSWDZIYmNxcmM0RSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
     "status": "full",
-    "used_bytes": 24294936,
+    "used_bytes": 0,
     "priority": 1
   },
   {
@@ -108,7 +116,7 @@
     "uuid": "948ffe6e-0f81-49e8-88db-29024828bad1",
     "path": "/eyJqdW5rIjoiajJsdVpBSWd3IiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==",
     "status": "full",
-    "used_bytes": 41027,
+    "used_bytes": 0,
     "priority": 1
   },
   {
@@ -116,15 +124,7 @@
     "uuid": "f819b6b7-c034-4f0d-9e6a-ea8c60b39bf8",
     "path": "/eyJqdW5rIjoiMk5GaExiUGFEeGc0SSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
     "status": "full",
-    "used_bytes": 7667785,
+    "used_bytes": 0,
     "priority": 1
-  },
-  {
-    "worker": "still-scene-fda3.devtahair.workers.dev",
-    "uuid": "dce8ca0a-ed26-45c9-9962-38888c19a0ad",
-    "path": "/eyJqdW5rIjoiSDNSSGYxT05LU2VEbyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjYyLjYwLjIxNy4yMzAiXX0=",
-    "status": "medium",
-    "used_bytes": 4644633470,
-    "priority": 2
   }
 ]
