@@ -1,10 +1,26 @@
 [
   {
+    "worker": "still-scene-fda3.devtahair.workers.dev",
+    "uuid": "dce8ca0a-ed26-45c9-9962-38888c19a0ad",
+    "path": "/eyJqdW5rIjoiSDNSSGYxT05LU2VEbyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjYyLjYwLjIxNy4yMzAiXX0=",
+    "status": "full",
+    "used_bytes": 0,
+    "priority": 1
+  },
+  {
+    "worker": "late-poetry-e86c.drmayry.workers.dev",
+    "uuid": "c91b3d99-a8c5-4184-86a1-9836732b032a",
+    "path": "/eyJqdW5rIjoiT2wxR0QzUWV0cmFRN21YOSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
+    "status": "full",
+    "used_bytes": 0,
+    "priority": 1
+  },
+  {
     "worker": "shrill-term-03c6.alferedoffice.workers.dev",
     "uuid": "adee44fa-ecb0-4359-a235-2d34f5b9a67a",
     "path": "/eyJqdW5rIjoiUlc4TndHNUpQIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==",
     "status": "full",
-    "used_bytes": 858057975,
+    "used_bytes": 0,
     "priority": 1
   },
   {
@@ -12,7 +28,7 @@
     "uuid": "8338d5f1-0264-41f6-8768-d39cd11c3128",
     "path": "/eyJqdW5rIjoiWDg4MnpxM29STVc0WTIiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
     "status": "full",
-    "used_bytes": 478753530,
+    "used_bytes": 0,
     "priority": 1
   },
   {
@@ -84,7 +100,7 @@
     "uuid": "a65e9ceb-8bcb-473a-a0f8-c5756c7197a5",
     "path": "/eyJqdW5rIjoiMXh6VVJnNE5HZFZ5IiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==",
     "status": "full",
-    "used_bytes": 24715685,
+    "used_bytes": 0,
     "priority": 1
   },
   {
@@ -100,7 +116,7 @@
     "uuid": "948ffe6e-0f81-49e8-88db-29024828bad1",
     "path": "/eyJqdW5rIjoiajJsdVpBSWd3IiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==",
     "status": "full",
-    "used_bytes": 176439376,
+    "used_bytes": 0,
     "priority": 1
   },
   {
@@ -110,21 +126,5 @@
     "status": "full",
     "used_bytes": 0,
     "priority": 1
-  },
-  {
-    "worker": "still-scene-fda3.devtahair.workers.dev",
-    "uuid": "dce8ca0a-ed26-45c9-9962-38888c19a0ad",
-    "path": "/eyJqdW5rIjoiSDNSSGYxT05LU2VEbyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjYyLjYwLjIxNy4yMzAiXX0=",
-    "status": "medium",
-    "used_bytes": 4420725476,
-    "priority": 2
-  },
-  {
-    "worker": "late-poetry-e86c.drmayry.workers.dev",
-    "uuid": "c91b3d99-a8c5-4184-86a1-9836732b032a",
-    "path": "/eyJqdW5rIjoiT2wxR0QzUWV0cmFRN21YOSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
-    "status": "medium",
-    "used_bytes": 4298586460,
-    "priority": 2
   }
 ]
