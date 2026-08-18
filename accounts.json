@@ -1,10 +1,18 @@
 [
   {
+    "worker": "still-scene-fda3.devtahair.workers.dev",
+    "uuid": "dce8ca0a-ed26-45c9-9962-38888c19a0ad",
+    "path": "/eyJqdW5rIjoiSDNSSGYxT05LU2VEbyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjYyLjYwLjIxNy4yMzAiXX0=",
+    "status": "full",
+    "used_bytes": 0,
+    "priority": 1
+  },
+  {
     "worker": "late-poetry-e86c.drmayry.workers.dev",
     "uuid": "c91b3d99-a8c5-4184-86a1-9836732b032a",
     "path": "/eyJqdW5rIjoiT2wxR0QzUWV0cmFRN21YOSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
     "status": "full",
-    "used_bytes": 2957498353,
+    "used_bytes": 0,
     "priority": 1
   },
   {
@@ -12,7 +20,7 @@
     "uuid": "adee44fa-ecb0-4359-a235-2d34f5b9a67a",
     "path": "/eyJqdW5rIjoiUlc4TndHNUpQIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==",
     "status": "full",
-    "used_bytes": 980075062,
+    "used_bytes": 0,
     "priority": 1
   },
   {
@@ -20,7 +28,7 @@
     "uuid": "8338d5f1-0264-41f6-8768-d39cd11c3128",
     "path": "/eyJqdW5rIjoiWDg4MnpxM29STVc0WTIiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
     "status": "full",
-    "used_bytes": 328805192,
+    "used_bytes": 0,
     "priority": 1
   },
   {
@@ -84,7 +92,7 @@
     "uuid": "bf1e3ad2-f322-43df-9701-88570d63ef3a",
     "path": "/eyJqdW5rIjoiSTdSWDZIYmNxcmM0RSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
     "status": "full",
-    "used_bytes": 118092,
+    "used_bytes": 0,
     "priority": 1
   },
   {
@@ -124,7 +132,7 @@
     "uuid": "6197249e-7f27-4b60-938e-a45e76bb43dc",
     "path": "/eyJqdW5rIjoiZUZVb2JBSlgxWDBzRDVGIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==",
     "status": "full",
-    "used_bytes": 91366385,
+    "used_bytes": 0,
     "priority": 1
   },
   {
@@ -132,15 +140,7 @@
     "uuid": "71ec263b-fea6-43e2-8bff-0fbfcf91e04a",
     "path": "/eyJqdW5rIjoibTFZWkp3ZWs5NyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
     "status": "full",
-    "used_bytes": 8070935,
+    "used_bytes": 0,
     "priority": 1
-  },
-  {
-    "worker": "still-scene-fda3.devtahair.workers.dev",
-    "uuid": "dce8ca0a-ed26-45c9-9962-38888c19a0ad",
-    "path": "/eyJqdW5rIjoiSDNSSGYxT05LU2VEbyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjYyLjYwLjIxNy4yMzAiXX0=",
-    "status": "medium",
-    "used_bytes": 4132771808,
-    "priority": 2
   }
 ]
