@@ -1,13 +1,5 @@
 [
   {
-    "worker": "billowing-waterfall-c2ee.demsdiana.workers.dev",
-    "uuid": "54abb4a2-9469-4d2f-be8b-112d3e434763",
-    "path": "/eyJqdW5rIjoidE11aU52WFY3QVRYRDF3IiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==",
-    "status": "full",
-    "used_bytes": 3175986063,
-    "priority": 1
-  },
-  {
     "worker": "winter-morning-9ecf.mamadyah.workers.dev",
     "uuid": "0664f95e-3f59-46eb-a5ff-dec8df9d382e",
     "path": "/eyJqdW5rIjoiRkdUck9JaXJmVUNLS0duIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==",
@@ -140,7 +132,15 @@
     "uuid": "8338d5f1-0264-41f6-8768-d39cd11c3128",
     "path": "/eyJqdW5rIjoiWDg4MnpxM29STVc0WTIiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
     "status": "medium",
-    "used_bytes": 3447264135,
+    "used_bytes": 3458056061,
+    "priority": 2
+  },
+  {
+    "worker": "billowing-waterfall-c2ee.demsdiana.workers.dev",
+    "uuid": "54abb4a2-9469-4d2f-be8b-112d3e434763",
+    "path": "/eyJqdW5rIjoidE11aU52WFY3QVRYRDF3IiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==",
+    "status": "medium",
+    "used_bytes": 3235698193,
     "priority": 2
   }
 ]
