@@ -1,13 +1,5 @@
 [
   {
-    "worker": "snowy-voice-4cc9.mehdideve.workers.dev",
-    "uuid": "8338d5f1-0264-41f6-8768-d39cd11c3128",
-    "path": "/eyJqdW5rIjoiWDg4MnpxM29STVc0WTIiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
-    "status": "full",
-    "used_bytes": 3136856444,
-    "priority": 1
-  },
-  {
     "worker": "billowing-waterfall-c2ee.demsdiana.workers.dev",
     "uuid": "54abb4a2-9469-4d2f-be8b-112d3e434763",
     "path": "/eyJqdW5rIjoidE11aU52WFY3QVRYRDF3IiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==",
@@ -108,7 +100,7 @@
     "uuid": "6197249e-7f27-4b60-938e-a45e76bb43dc",
     "path": "/eyJqdW5rIjoiZUZVb2JBSlgxWDBzRDVGIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==",
     "status": "full",
-    "used_bytes": 3080987,
+    "used_bytes": 4580227,
     "priority": 1
   },
   {
@@ -141,6 +133,14 @@
     "path": "/eyJqdW5rIjoiUlc4TndHNUpQIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==",
     "status": "medium",
     "used_bytes": 4675786710,
+    "priority": 2
+  },
+  {
+    "worker": "snowy-voice-4cc9.mehdideve.workers.dev",
+    "uuid": "8338d5f1-0264-41f6-8768-d39cd11c3128",
+    "path": "/eyJqdW5rIjoiWDg4MnpxM29STVc0WTIiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
+    "status": "medium",
+    "used_bytes": 3252869533,
     "priority": 2
   }
 ]
