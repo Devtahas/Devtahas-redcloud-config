@@ -4,7 +4,7 @@
     "uuid": "54abb4a2-9469-4d2f-be8b-112d3e434763",
     "path": "/eyJqdW5rIjoidE11aU52WFY3QVRYRDF3IiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==",
     "status": "full",
-    "used_bytes": 2587080386,
+    "used_bytes": 2603441113,
     "priority": 1
   },
   {
@@ -12,7 +12,7 @@
     "uuid": "0664f95e-3f59-46eb-a5ff-dec8df9d382e",
     "path": "/eyJqdW5rIjoiRkdUck9JaXJmVUNLS0duIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==",
     "status": "full",
-    "used_bytes": 1220224839,
+    "used_bytes": 1220668892,
     "priority": 1
   },
   {
@@ -20,7 +20,7 @@
     "uuid": "b7f23b26-e5a9-4b31-884e-95d107130b07",
     "path": "/eyJqdW5rIjoiQk1mSkphSkl5RiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
     "status": "full",
-    "used_bytes": 326475939,
+    "used_bytes": 326633755,
     "priority": 1
   },
   {
@@ -28,7 +28,7 @@
     "uuid": "805904f9-892d-4672-9687-819486e5369e",
     "path": "/eyJqdW5rIjoiUVpxVTJCSG5LRDRUcXV0RCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
     "status": "full",
-    "used_bytes": 452866,
+    "used_bytes": 464587,
     "priority": 1
   },
   {
@@ -36,7 +36,7 @@
     "uuid": "0f313f40-b0e4-43b7-a86a-7bae0683e94c",
     "path": "/eyJqdW5rIjoiaFhXdDh3TWIiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
     "status": "full",
-    "used_bytes": 80343870,
+    "used_bytes": 80344678,
     "priority": 1
   },
   {
@@ -60,7 +60,7 @@
     "uuid": "bf1e3ad2-f322-43df-9701-88570d63ef3a",
     "path": "/eyJqdW5rIjoiSTdSWDZIYmNxcmM0RSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
     "status": "full",
-    "used_bytes": 36099657,
+    "used_bytes": 36213730,
     "priority": 1
   },
   {
@@ -140,7 +140,7 @@
     "uuid": "adee44fa-ecb0-4359-a235-2d34f5b9a67a",
     "path": "/eyJqdW5rIjoiUlc4TndHNUpQIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==",
     "status": "exhausted",
-    "used_bytes": 6073031623,
+    "used_bytes": 6074174095,
     "priority": 3
   }
 ]
