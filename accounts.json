@@ -128,19 +128,19 @@
     "priority": 2
   },
   {
-    "worker": "shrill-term-03c6.alferedoffice.workers.dev",
-    "uuid": "adee44fa-ecb0-4359-a235-2d34f5b9a67a",
-    "path": "/eyJqdW5rIjoiUlc4TndHNUpQIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==",
-    "status": "medium",
-    "used_bytes": 5336067990,
-    "priority": 2
-  },
-  {
     "worker": "still-scene-fda3.devtahair.workers.dev",
     "uuid": "dce8ca0a-ed26-45c9-9962-38888c19a0ad",
     "path": "/eyJqdW5rIjoiSDNSSGYxT05LU2VEbyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjYyLjYwLjIxNy4yMzAiXX0=",
     "status": "exhausted",
     "used_bytes": 5824731796,
+    "priority": 3
+  },
+  {
+    "worker": "shrill-term-03c6.alferedoffice.workers.dev",
+    "uuid": "adee44fa-ecb0-4359-a235-2d34f5b9a67a",
+    "path": "/eyJqdW5rIjoiUlc4TndHNUpQIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==",
+    "status": "exhausted",
+    "used_bytes": 5383395942,
     "priority": 3
   }
 ]
