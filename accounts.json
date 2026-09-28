@@ -1,13 +1,5 @@
 [
   {
-    "worker": "shrill-term-03c6.alferedoffice.workers.dev",
-    "uuid": "adee44fa-ecb0-4359-a235-2d34f5b9a67a",
-    "path": "/eyJqdW5rIjoiUlc4TndHNUpQIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==",
-    "status": "full",
-    "used_bytes": 3081826908,
-    "priority": 1
-  },
-  {
     "worker": "snowy-voice-4cc9.mehdideve.workers.dev",
     "uuid": "8338d5f1-0264-41f6-8768-d39cd11c3128",
     "path": "/eyJqdW5rIjoiWDg4MnpxM29STVc0WTIiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
@@ -20,7 +12,7 @@
     "uuid": "54abb4a2-9469-4d2f-be8b-112d3e434763",
     "path": "/eyJqdW5rIjoidE11aU52WFY3QVRYRDF3IiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==",
     "status": "full",
-    "used_bytes": 1348519628,
+    "used_bytes": 1444823045,
     "priority": 1
   },
   {
@@ -136,11 +128,19 @@
     "priority": 2
   },
   {
+    "worker": "shrill-term-03c6.alferedoffice.workers.dev",
+    "uuid": "adee44fa-ecb0-4359-a235-2d34f5b9a67a",
+    "path": "/eyJqdW5rIjoiUlc4TndHNUpQIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==",
+    "status": "medium",
+    "used_bytes": 3641394127,
+    "priority": 2
+  },
+  {
     "worker": "late-poetry-e86c.drmayry.workers.dev",
     "uuid": "c91b3d99-a8c5-4184-86a1-9836732b032a",
     "path": "/eyJqdW5rIjoiT2wxR0QzUWV0cmFRN21YOSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
     "status": "exhausted",
-    "used_bytes": 5696853870,
+    "used_bytes": 5844884657,
     "priority": 3
   }
 ]
