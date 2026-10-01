@@ -4,7 +4,7 @@
     "uuid": "8338d5f1-0264-41f6-8768-d39cd11c3128",
     "path": "/eyJqdW5rIjoiWDg4MnpxM29STVc0WTIiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
     "status": "full",
-    "used_bytes": 1587083654,
+    "used_bytes": 1587705381,
     "priority": 1
   },
   {
@@ -28,7 +28,7 @@
     "uuid": "b7f23b26-e5a9-4b31-884e-95d107130b07",
     "path": "/eyJqdW5rIjoiQk1mSkphSkl5RiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
     "status": "full",
-    "used_bytes": 708609428,
+    "used_bytes": 709116242,
     "priority": 1
   },
   {
@@ -140,7 +140,7 @@
     "uuid": "adee44fa-ecb0-4359-a235-2d34f5b9a67a",
     "path": "/eyJqdW5rIjoiUlc4TndHNUpQIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==",
     "status": "exhausted",
-    "used_bytes": 5431873420,
+    "used_bytes": 5461437163,
     "priority": 3
   }
 ]
