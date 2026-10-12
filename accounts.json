@@ -68,7 +68,7 @@
     "uuid": "0f313f40-b0e4-43b7-a86a-7bae0683e94c",
     "path": "/eyJqdW5rIjoiaFhXdDh3TWIiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
     "status": "full",
-    "used_bytes": 0,
+    "used_bytes": 17015508,
     "priority": 1
   },
   {
@@ -132,7 +132,7 @@
     "uuid": "6197249e-7f27-4b60-938e-a45e76bb43dc",
     "path": "/eyJqdW5rIjoiZUZVb2JBSlgxWDBzRDVGIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==",
     "status": "full",
-    "used_bytes": 394022422,
+    "used_bytes": 426296869,
     "priority": 1
   },
   {
